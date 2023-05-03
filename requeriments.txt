@@ -1,0 +1,46 @@
+django 
+# é o framework web utilizado para desenvolver o projeto
+
+django-autoslug
+# é um pacote que fornece um campo de slug automático para 
+# modelos do Django
+
+django-debug-toolbar
+# é uma ferramenta útil para ajudar a identificar problemas 
+# e otimizar o desempenho de uma aplicação Django
+
+django-model-utils
+# é um conjunto de utilitários adicionais para modelos do
+# Django, que inclui várias funcionalidades úteis como campos 
+# customizados e classes base para modelos
+
+factory-boy
+# é uma biblioteca para criar instâncias de objetos de teste
+# para a criação de testes automatizados
+
+ipython
+# é uma interface interativa para o interpretador Python, que 
+# fornece recursos adicionais, como autocomplete, histórico de
+# comandos e outros recursos para facilitar o desenvolvimento
+
+pillow
+#é uma biblioteca Python para processamento de imagens
+
+psycopg2-binary
+# é um adaptador de banco de dados para PostgreSQL usado para
+# se conectar a um banco de dados PostgreSQL a partir de uma
+# aplicação Python
+
+pytest
+# é um framework de teste Python que permite escrever testes
+# mais simples e legíveis
+
+pytest-cov
+# é um plugin para o pytest que fornece relatórios de cobertura
+# de código
+
+pytest-django
+# é um plugin para o pytest que fornece funcionalidades extras
+# para testar aplicações Django, como o gerenciamento do banco
+# de dados de teste e a criação automática do cliente de teste
+# do Django.
